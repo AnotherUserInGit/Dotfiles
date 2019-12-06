@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/vale/.config/i3/wallp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000015",
+        "foreground": "#79e6e4",
+        "cursor": "#79e6e4"
+    },
+    "colors": {
+        "color0": "#000015",
+        "color1": "#004F6C",
+        "color2": "#006878",
+        "color3": "#015284",
+        "color4": "#007585",
+        "color5": "#019A9E",
+        "color6": "#13CDC9",
+        "color7": "#79e6e4",
+        "color8": "#54a19f",
+        "color9": "#004F6C",
+        "color10": "#006878",
+        "color11": "#015284",
+        "color12": "#007585",
+        "color13": "#019A9E",
+        "color14": "#13CDC9",
+        "color15": "#79e6e4"
+    }
+}

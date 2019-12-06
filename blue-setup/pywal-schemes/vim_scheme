@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/vale/.config/i3/wallp.jpg"
+let background = "#000015"
+let foreground = "#79e6e4"
+let cursor     = "#79e6e4"
+
+" Colors
+let color0  = "#000015"
+let color1  = "#004F6C"
+let color2  = "#006878"
+let color3  = "#015284"
+let color4  = "#007585"
+let color5  = "#019A9E"
+let color6  = "#13CDC9"
+let color7  = "#79e6e4"
+let color8  = "#54a19f"
+let color9  = "#004F6C"
+let color10 = "#006878"
+let color11 = "#015284"
+let color12 = "#007585"
+let color13 = "#019A9E"
+let color14 = "#13CDC9"
+let color15 = "#79e6e4"
