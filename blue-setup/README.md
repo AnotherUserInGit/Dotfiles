@@ -5,5 +5,5 @@ Use these dotfiles as you want :)
 
 # Previews
 
-![Alt text](blue-setup/examples/example1.png) \
-![Alt text](blue-setup/examples/example2.png) 
+![example1](examples/example1.png) \
+![example2](examples/example2.png) 
